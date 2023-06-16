@@ -1,83 +1,83 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
 }
-.navBar{
+.navBar {
     padding-top: 20px;
 }
-.logo{
+.logo {
     padding: 10px;
 }
-.Buttons{
+.Buttons {
     padding: 10px;
     text-align: center;
     padding-top: 50px;
 }
-.btnwomen{
+.btnwomen {
     width: 20%;
     padding: 10px;
     border: none;
     background: none;
 }
-.btnmen{
+.btnmen {
     width: 20%;
     padding: 10px;
     border: none;
     background: none;
 }
-.btnwomen:hover{
+.btnwomen:hover {
     background-color: black;
     color: white;
 }
-.btnmen:hover{
+.btnmen:hover {
     background-color: black;
     color: white;
 }
-.cartProf{
+.cartProf {
     text-align: right;
     padding: 10px;
     padding-top: 50px;
 }
-.cartProf img{
+.cartProf img {
     padding-top: 50px;
     width: 50px;
     height: 50px;
     padding: 10px;
     cursor: pointer;
 }
-.subnav{
+.subnav {
     width: 60%;
 }
-.subnav ul{
+.subnav ul {
     list-style-type: none;
     display: flex;
     justify-content: space-around;
 }
-.subnav ul li a{ 
+.subnav ul li a {
     cursor: pointer;
 }
-.banner_men{
+.banner_men {
     width: 100%;
 }
-.thiscard{
-    background-color: #FAF6F5;
+.thiscard {
+    background-color: #faf6f5;
 }
-.MainHeadingEid{
+.MainHeadingEid {
     margin-left: 100px;
     font-family: Jacques Francois;
 }
-.footer{
-    background-color: #FAF6F5;
+.footer {
+    background-color: #faf6f5;
 }
-.footerIcons{
+.footerIcons {
     width: 20px;
     height: 20px;
     margin-right: 15px;
 }
-.Second-footer{
+.Second-footer {
     padding-top: 180px;
 }
-.Second-footer a{
+.Second-footer a {
     color: black;
 }
