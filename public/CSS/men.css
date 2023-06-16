@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navBar{
+    padding-top: 20px;
+}
+.logo{
+    padding: 10px;
+}
+.Buttons{
+    padding: 10px;
+    text-align: center;
+    padding-top: 50px;
+}
+.btnwomen{
+    width: 20%;
+    padding: 10px;
+    border: none;
+    background: none;
+}
+.btnmen{
+    width: 20%;
+    padding: 10px;
+    border: none;
+    background: none;
+}
+.btnwomen:hover{
+    background-color: black;
+    color: white;
+}
+.btnmen:hover{
+    background-color: black;
+    color: white;
+}
+.cartProf{
+    text-align: right;
+    padding: 10px;
+    padding-top: 50px;
+}
+.cartProf img{
+    padding-top: 50px;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    cursor: pointer;
+}
+.subnav{
+    width: 60%;
+}
+.subnav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+.subnav ul li a{ 
+    cursor: pointer;
+}
+.banner_men{
+    width: 100%;
+}
+.thiscard{
+    background-color: #FAF6F5;
+}
+.MainHeadingEid{
+    margin-left: 100px;
+    font-family: Jacques Francois;
+}
+.footer{
+    background-color: #FAF6F5;
+}
+.footerIcons{
+    width: 20px;
+    height: 20px;
+    margin-right: 15px;
+}
+.Second-footer{
+    padding-top: 180px;
+}
+.Second-footer a{
+    color: black;
+}
