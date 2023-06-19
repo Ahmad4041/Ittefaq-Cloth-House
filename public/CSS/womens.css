@@ -19,14 +19,19 @@
     width: 20%;
     padding: 10px;
     border: none;
-    background: none;
+    background-color: black;
+    color: white;
 }
 .btnmen {
     width: 20%;
     padding: 10px;
     border: none;
-    background-color: black;
-    color: white;
+    background: none;
+
+}
+.btnmen a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
 }
 .btnwomen:hover {
     background-color: black;
@@ -34,7 +39,7 @@
 }
 .btnmen:hover {
     background-color: black;
-    color: white;
+    color: white !important;
 }
 .cartProf {
     text-align: right;

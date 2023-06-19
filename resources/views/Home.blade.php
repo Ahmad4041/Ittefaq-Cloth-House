@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="{{ asset('CSS/men.css') }}">
 @endsection
 {{-- Page Title --}}
-@section('title', 'Men')
+@section('title', 'Home-Mens')
 {{-- Main Section Of Page --}}
 @section('content')
     <div class="container-fluid">

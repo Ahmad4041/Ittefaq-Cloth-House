@@ -14,5 +14,18 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('Mens');
+    return view('Home');
+});
+
+Route::get('/ShalwarKameez', function () {
+    return view('ShalwarKameez');
+});
+Route::get('/unstichFabric', function () {
+    return view('unstichFabric');
+});
+Route::get('/Kurta', function () {
+    return view('Kurta');
+});
+Route::get('/womens', function () {
+    return view('womens');
 });

@@ -14,11 +14,12 @@
 {{-- Sub nav --}}
 <div class="subnav mt-3">
     <ul>
-        <li><a href="/ShalwarKameez">Shalwar Kameez</a></li>
-        <li><a href="/unstichFabric">Unstiched Fabric</a></li>
-        <li><a href="Kurta">Kurta Set</a></li>
-        <li><a href="/Waistcoat">WaistCoat</a></li>
-        <li><a href="/sherwani">Sherwani</a></li>
+        <li><a href="/ShalwarKameez">Summer Lawn</a></li>
+        <li><a href="/unstichFabric">Unstiched</a></li>
+        <li><a href="Kurta">Stiched</a></li>
+        <li><a href="/Waistcoat">Designer Luxury</a></li>
+        <li><a href="/sherwani">Pret</a></li>
+        <li><a href="/sherwani">Wedding</a></li>
     </ul>
 </div>
 {{-- Sub Nav Ends --}}
