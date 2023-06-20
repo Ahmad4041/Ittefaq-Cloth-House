@@ -350,6 +350,84 @@
               </div>
               {{-- Carsousel Ends Here --}}
         </div>
+        <h1 class="MainHeadingEid mt-5">Shop By Category</h1>
+        <div class="container">
+            <div class="row mt-5">
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <img class="w-100 img-fluid categoriesImages" src="{{ asset('WoMensCategory/womens1-17.png') }}" alt="Profile">
+                    <h2 class="text-center p-2 fs-4">Long Shirt Set</h2>
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <img class="w-100 img-fluid categoriesImages" src="{{ asset('WoMensCategory/womens1-18.png') }}" alt="Profile">
+                    <h2 class="text-center p-2 fs-4">Kurta Set</h2>
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <img class="w-100 img-fluid categoriesImages" src="{{ asset('WoMensCategory/womens1-19.png') }}" alt="Profile">
+                    <h2 class="text-center p-2 fs-4">Pishwas</h2>
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <img class="w-100 img-fluid categoriesImages" src="{{ asset('WoMensCategory/womens1-20.png') }}" alt="Profile">
+                    <h2 class="text-center p-2 fs-4">Frock</h2>
+                </div>
+            </div>
+        </div>
+        <h1 class="MainHeadingEid mt-5">Delivery Before Eid Deals</h1>
+        <div class="container">
+            <div class="row mt-5">
+                <div class="col-sm-12 col-md-12 col-lg-4">
+                    <div class="readywear">
+                        <img class="w-100 img-fluid" src="{{ asset('WoMensCategory/readytowear.png') }}" alt="Profile">
+                        <div class="wear">
+                            <h1>Ready To Wear</h1>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4">
+                    <div class="thiscard">
+                        <img class="w-100 img-fluid" src="{{ asset('WoMensCategory/womens1-4.png') }}" alt="Profile">
+                        <h2 class="text-center p-2 fs-4">Upto 40% Off</h2>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4">
+                    <div class="thiscard">
+                        <img class="w-100 img-fluid" src="{{ asset('WoMensCategory/womens1-5.png') }}" alt="Profile">
+                        <h2 class="text-center p-2 fs-4">Upto 60% Off</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <h1 class="MainHeadingEid mt-5">Delivery Before Eid Deals</h1>
+        <div class="container">
+            <div class="row mt-5">
+                <div class="col-sm-12 col-md-12 col-lg-4">
+                    <div class="readywear">
+                        <img class="w-100 img-fluid" src="{{ asset('WoMensCategory/readytowear.png') }}" alt="Profile">
+                        <div class="wear2">
+                            <h1>Unstiched
+                                Wear</h1>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4">
+                    <div class="thiscard">
+                        <img class="w-100 img-fluid" src="{{ asset('WoMensCategory/womens1-4.png') }}" alt="Profile">
+                        <h2 class="text-center p-2 fs-4">Upto 40% Off</h2>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4">
+                    <div class="thiscard">
+                        <img class="w-100 img-fluid" src="{{ asset('WoMensCategory/womens1-5.png') }}" alt="Profile">
+                        <h2 class="text-center p-2 fs-4">Upto 60% Off</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+            {{-- Banner Starts --}}
+    <div class="banner_men mt-5">
+        <img class="img-fluid w-100" src="{{ asset('Banner/womens1bannerbottom.png') }}" alt="">
+    </div>
+    {{-- Banner Ends --}}
+
     </div>
     {{-- Footer --}}
     @include('widget.footer')

@@ -76,6 +76,32 @@
     margin-left: 100px;
     font-family: Jacques Francois;
 }
+.categoriesImages{
+    border-radius: 100px;
+}
+.readywear{
+    position: relative;
+}
+.wear{
+    position: absolute;
+    top: 140px;
+    left: 90px;
+}
+.wear2{
+    position: absolute;
+    top: 170px;
+    left: 2px;
+}
+.wear h1{
+    color:#F5A5B5;
+    font-size: 100px;
+    font-family: Inter;
+}
+.wear2 h1{
+    color:#F5A5B5;
+    font-size: 100px;
+    font-family: Inter;
+}
 .footer {
     background-color: #faf6f5;
 }

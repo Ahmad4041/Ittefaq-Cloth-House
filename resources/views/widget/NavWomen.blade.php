@@ -14,9 +14,9 @@
 {{-- Sub nav --}}
 <div class="subnav mt-3">
     <ul>
-        <li><a href="/ShalwarKameez">Summer Lawn</a></li>
-        <li><a href="/unstichFabric">Unstiched</a></li>
-        <li><a href="Kurta">Stiched</a></li>
+        <li><a href="/summerWomens">Summer Lawn</a></li>
+        <li><a href="/unstichWomens">Unstiched</a></li>
+        <li><a href="/stichedWomens">Stiched</a></li>
         <li><a href="/Waistcoat">Designer Luxury</a></li>
         <li><a href="/sherwani">Pret</a></li>
         <li><a href="/sherwani">Wedding</a></li>

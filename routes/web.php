@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// Mens Pages Route
 Route::get('/', function () {
     return view('Home');
 });
@@ -26,6 +27,25 @@ Route::get('/unstichFabric', function () {
 Route::get('/Kurta', function () {
     return view('Kurta');
 });
+// Womens Pages Routes
 Route::get('/womens', function () {
     return view('womens');
+});
+Route::get('/eidwomen', function () {
+    return view('eidwomen');
+});
+Route::get('/summerWomens', function () {
+    return view('summerWomens');
+});
+Route::get('/exploreWomens', function () {
+    return view('exploreNewwomens');
+});
+Route::get('/longshirtWomens', function () {
+    return view('longshirtWomens');
+});
+Route::get('/unstichWomens', function () {
+    return view('unstichWomens');
+});
+Route::get('/stichedWomens', function () {
+    return view('stichedWomens');
 });
