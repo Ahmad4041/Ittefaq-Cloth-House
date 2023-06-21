@@ -27,9 +27,8 @@
     padding: 10px;
     border: none;
     background: none;
-
 }
-.btnmen a{
+.btnmen a {
     color: rgb(0, 0, 0);
     text-decoration: none;
 }
@@ -76,29 +75,29 @@
     margin-left: 100px;
     font-family: Jacques Francois;
 }
-.categoriesImages{
+.categoriesImages {
     border-radius: 100px;
 }
-.readywear{
+.readywear {
     position: relative;
 }
-.wear{
+.wear {
     position: absolute;
     top: 140px;
     left: 90px;
 }
-.wear2{
+.wear2 {
     position: absolute;
     top: 170px;
     left: 2px;
 }
-.wear h1{
-    color:#F5A5B5;
+.wear h1 {
+    color: #f5a5b5;
     font-size: 100px;
     font-family: Inter;
 }
-.wear2 h1{
-    color:#F5A5B5;
+.wear2 h1 {
+    color: #f5a5b5;
     font-size: 100px;
     font-family: Inter;
 }

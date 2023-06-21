@@ -42,8 +42,8 @@
                     </div>
                 </div>
             </div>
-             {{-- Row 2 --}}
-             <div class="row mt-5">
+            {{-- Row 2 --}}
+            <div class="row mt-5">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="thiscard">
                         <img class="w-100 img-fluid" src="{{ asset('MensCategory/Eidwear1.png') }}" alt="Profile">
@@ -63,8 +63,8 @@
                     </div>
                 </div>
             </div>
-              {{-- Row 3 --}}
-              <div class="row mt-5">
+            {{-- Row 3 --}}
+            <div class="row mt-5">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="thiscard">
                         <img class="w-100 img-fluid" src="{{ asset('MensCategory/Eidwear2.png') }}" alt="Profile">
@@ -86,11 +86,11 @@
             </div>
         </div>
     </div>
-            {{-- Banner Starts --}}
-            <div class="banner_men mt-5">
-                <img class="img-fluid w-100" src="{{ asset('Banner/mens3bannerbottom.png') }}" alt="">
-            </div>
-            {{-- Banner Ends --}}
+    {{-- Banner Starts --}}
+    <div class="banner_men mt-5">
+        <img class="img-fluid w-100" src="{{ asset('Banner/mens3bannerbottom.png') }}" alt="">
+    </div>
+    {{-- Banner Ends --}}
     {{-- Footer --}}
     @include('widget.footer')
 @endsection

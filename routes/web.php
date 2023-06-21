@@ -49,3 +49,13 @@ Route::get('/unstichWomens', function () {
 Route::get('/stichedWomens', function () {
     return view('stichedWomens');
 });
+Route::get('/designer', function () {
+    return view('designer');
+});
+Route::get('/wedding', function () {
+    return view('wedding');
+});
+// Registration
+Route::get('/signup', function () {
+    return view('signup');
+});

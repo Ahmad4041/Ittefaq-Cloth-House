@@ -130,21 +130,23 @@
                 </div>
             </div>
         </div>
-            {{-- Banner Starts --}}
-    <div class="banner_men mt-5">
-        <img class="img-fluid w-100" src="{{ asset('Banner/longshirtbannerbottom.png') }}" alt="">
-    </div>
-    {{-- Banner Ends --}}
+        {{-- Banner Starts --}}
+        <div class="banner_men mt-5">
+            <img class="img-fluid w-100" src="{{ asset('Banner/longshirtbannerbottom.png') }}" alt="">
+        </div>
+        {{-- Banner Ends --}}
         <div class="container">
             <div class="row mt-5">
                 <div class="col-sm-12 col-md-12 col-lg-6">
                     <div class="thiscard">
-                        <img class="w-100 img-fluid" src="{{ asset('WoMensCategory/longshirtbottom1.png') }}" alt="Profile">
+                        <img class="w-100 img-fluid" src="{{ asset('WoMensCategory/longshirtbottom1.png') }}"
+                            alt="Profile">
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6">
                     <div class="thiscard">
-                        <img class="w-100 img-fluid" src="{{ asset('WoMensCategory/longshirtbottom2.png') }}" alt="Profile">
+                        <img class="w-100 img-fluid" src="{{ asset('WoMensCategory/longshirtbottom2.png') }}"
+                            alt="Profile">
                     </div>
                 </div>
             </div>

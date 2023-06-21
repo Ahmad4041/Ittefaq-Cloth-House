@@ -17,9 +17,9 @@
         <li><a href="/summerWomens">Summer Lawn</a></li>
         <li><a href="/unstichWomens">Unstiched</a></li>
         <li><a href="/stichedWomens">Stiched</a></li>
-        <li><a href="/Waistcoat">Designer Luxury</a></li>
-        <li><a href="/sherwani">Pret</a></li>
-        <li><a href="/sherwani">Wedding</a></li>
+        <li><a href="/designer">Designer Luxury</a></li>
+        <li><a href="/pret">Pret</a></li>
+        <li><a href="/wedding">Wedding</a></li>
     </ul>
 </div>
 {{-- Sub Nav Ends --}}

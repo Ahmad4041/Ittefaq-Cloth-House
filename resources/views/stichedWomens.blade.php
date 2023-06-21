@@ -152,11 +152,11 @@
                 </div>
             </div>
         </div>
-            {{-- Banner Starts --}}
-    <div class="banner_men mt-5">
-        <img class="img-fluid w-100" src="{{ asset('Banner/stichbannerbottom.png') }}" alt="">
-    </div>
-    {{-- Banner Ends --}}
+        {{-- Banner Starts --}}
+        <div class="banner_men mt-5">
+            <img class="img-fluid w-100" src="{{ asset('Banner/stichbannerbottom.png') }}" alt="">
+        </div>
+        {{-- Banner Ends --}}
     </div>
     {{-- Footer --}}
     @include('widget.footer')

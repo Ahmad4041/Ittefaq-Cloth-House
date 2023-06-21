@@ -130,11 +130,11 @@
                 </div>
             </div>
         </div>
-            {{-- Banner Starts --}}
-    <div class="banner_men mt-5">
-        <img class="img-fluid w-100" src="{{ asset('Banner/explorebottombanner.png') }}" alt="">
-    </div>
-    {{-- Banner Ends --}}
+        {{-- Banner Starts --}}
+        <div class="banner_men mt-5">
+            <img class="img-fluid w-100" src="{{ asset('Banner/explorebottombanner.png') }}" alt="">
+        </div>
+        {{-- Banner Ends --}}
         <div class="container">
             <div class="row mt-5">
                 <div class="col-sm-12 col-md-12 col-lg-4">
