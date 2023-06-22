@@ -59,3 +59,6 @@ Route::get('/wedding', function () {
 Route::get('/signup', function () {
     return view('signup');
 });
+Route::get('/Login', function () {
+    return view('Login');
+});

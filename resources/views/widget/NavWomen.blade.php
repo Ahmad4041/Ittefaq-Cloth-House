@@ -7,8 +7,8 @@
         <button onclick="window.location='{{ url('/') }}'" class="btnmen">Men</button>
     </div>
     <div class="col cartProf">
-        <img src="{{ asset('Icons/Profile.png') }}" alt="Profile">
-        <img src="{{ asset('Icons/Cart.png') }}" alt="Cart">
+        <img onclick="window.location='{{ url('/signup') }}'" src="{{ asset('Icons/Profile.png') }}" alt="Profile">
+        <img onclick="window.location='{{ url('/cart') }}'" src="{{ asset('Icons/Cart.png') }}" alt="Cart">
     </div>
 </div>
 {{-- Sub nav --}}
